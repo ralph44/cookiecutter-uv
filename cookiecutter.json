@@ -1,10 +1,10 @@
 {
-  "author": "Florian Maas",
-  "email": "fpgmaas@gmail.com",
-  "author_github_handle": "fpgmaas",
+  "author": "Lennard G",
+  "email": "info@simpleki.de",
+  "author_github_handle": "ralph44",
   "project_name": "example-project",
   "project_slug": "{{cookiecutter.project_name|lower|replace('-', '_')}}",
-  "project_description": "This is a template repository for Python projects that use uv for their dependency management.",
+  "project_description": "Default template project description",
   "layout": [
     "flat",
     "src"
